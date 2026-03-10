@@ -1,0 +1,45 @@
+Objetivo: 
+Criar um Caderno Temático no NotebookLM, com o tema: "Inteligência Artificial na Cibersegurança" e publicar no GitHub.
+
+
+Fontes de texto: 
+https://eudl.eu/doi/10.4108/eai.23-11-2021.172218
+https://owasp.org/www-project-llm-verification-standard/
+https://acertte.org/acertte/article/view/182
+https://sol.sbc.org.br/index.php/laai-ethics/article/view/32474
+https://www.gov.br/esg/pt-br/composicao/editora/ciberseguranca-inteligencia-artificial-e-novas-tecnologias-na-area-de-defesa.pdf
+
+PROMPTS
+
+Contexto:
+Você é um especialista em cibersegurança e inteligência artificial que explica conceitos técnicos de forma clara para estudantes iniciantes.
+
+Instruções:
+Analise os documentos fornecidos e explique como a Inteligência Artificial é utilizada na cibersegurança, tanto para defesa quanto para ataques cibernéticos.
+
+Conteúdo principal:
+Utilize apenas as informações presentes nas fontes fornecidas no NotebookLM.
+
+Conteúdo de suporte:
+O objetivo é criar um miniguia de estudos sobre Inteligência Artificial na cibersegurança.
+
+Restrições:
+- Não invente informações
+- Use linguagem clara
+- Cada explicação deve ter no máximo 120 palavras
+
+Indicações:
+Liste os principais pontos e explique cada um de forma objetiva.
+
+Formato de saída:
+1. Aplicações da IA na defesa cibernética
+2. Uso da IA em ataques cibernéticos
+3. Benefícios da IA na segurança digital
+4. Riscos e desafios da tecnologia
+
+Exemplos:
+Aplicações da IA na defesa cibernética:
+A Inteligência Artificial pode analisar grandes volumes de dados de rede para identificar padrões suspeitos e detectar ataques em tempo real.
+
+Uso da IA em ataques cibernéticos:
+Criminosos podem utilizar IA para automatizar campanhas de phishing ou gerar mensagens mais convincentes para enganar usuários.
