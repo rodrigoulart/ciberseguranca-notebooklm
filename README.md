@@ -41,13 +41,11 @@ O estudo aborda aplicações como:
 
 ```
 
-ia-na-ciberseguranca-notebooklm/
-│
-├── README.md
-├── fontes/
-│ └── links-dos-artigos.txt
-└── prompts/
-└── prompt-principal.txt
+ciberseguranca-notebooklm/
+├── Cibersegurança_na_Era_da_IA.pdf #Apresentação gerada pelo NotebookLM
+├── LICENCE                         #Licença MIT
+├── Projeto.txt                     #Documento com o escopo do projeto, incluindo links das fontes e prompts
+└── README.md                       #Este arquivo
 
 ```
 
